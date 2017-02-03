@@ -1,0 +1,3514 @@
+{
+    "64": [
+        "EVA, AVINA",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "22": [
+        "ABEL, AZUL",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "8": [
+        "ROSS, ALEXANDER",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "19": [
+        "EDWARD, ANNUNZIO",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "67": [
+        "BAHLEBBY, AMDEMICHAEL",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "76": [
+        "ROCCO, BALESTRI",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "52": [
+        "ALESIA, ARELLANO",
+        {
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "39": [
+        "MARY, ACCURSO",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "13": [
+        "LESTER, BAILEY",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "31": [
+        "CHRISTOPHER, ALONZO",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "66": [
+        "NANCY, ARROYO-FREGOSO",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "58": [
+        "BLANCA, BAHENA",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "56": [
+        "JAMES, ALLEN",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "18": [
+        "JOHN, BAJIC",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "41": [
+        "CAROLYN, ALLAIN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "2": [
+        "THERON, AVERETT",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "12": [
+        "WILLIAM, ABBRUZZESE",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "35": [
+        "GRACE ANN, ARMOUR",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "40": [
+        "BRUCE, ASKEW",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "10": [
+        "MARK, ANDERSEN",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "32": [
+        "PATRICK, ASHE",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "47": [
+        "SANDRA, ALLEN",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "69": [
+        "MICHELLE, ASHFORD",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "9": [
+        "MARSHALL, ANDREWS JR",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "17": [
+        "SAMUEL, ALEGADO",
+        {
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "36": [
+        "DAVID, ADAMS",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "4": [
+        "DANIEL, ANDUJAR",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "23": [
+        "MOHAMMED, ABUBAKER",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "65": [
+        "DAVID, ALPERS",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "61": [
+        "DAVID, ANDREWS",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "20": [
+        "VINCENT, BALDASSANO",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "27": [
+        "LOUIS, AGUILAR",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "7": [
+        "TIMOTHY, ALLEN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "62": [
+        "CAMUHOO, AITKEN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "24": [
+        "TIMOTHY, BAILEY",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "33": [
+        "MAJED, ASSAF",
+        {
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "57": [
+        "RAGINA, BAGGETTE",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "55": [
+        "JOSE, ALVAREZ",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "14": [
+        "JAIME, ALVARADO",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "26": [
+        "CHRISTOPHER, AKINES",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "11": [
+        "CHRISTOPHER, AKINES",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "63": [
+        "LUTHER, ANDERSON",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "51": [
+        "MARIE, ALLEN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "25": [
+        "ISABEL, ARENAS",
+        {
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "50": [
+        "HIRAM, ARAGONES",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "6": [
+        "J, ALDANA",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "53": [
+        "JUANITA, AGUILAR",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "73": [
+        "ELIZABETH, ALCANTARA",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "45": [
+        "ALEJANDRO, ALMAZAN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "28": [
+        "TIMOTHY, ALLEN",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "42": [
+        "MARIO, ALONSO",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "77": [
+        "FABIAN, ALBARRAN",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "70": [
+        "MICHAEL, BAILEY",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "80": [
+        "BILAL, ALI",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "59": [
+        "LESTER, ANDERSON",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "43": [
+        "CARA, BADER",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "74": [
+        "MICHAEL, AUSTIN",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "72": [
+        "EARL, ALEXANDER",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "68": [
+        "NIKOS, APOSTOLOPOALOS",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "37": [
+        "CONSTANTINE, ARGIRIS",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "15": [
+        "GRACE, AKINLEMIBOLA",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "38": [
+        "CLARISSA, ACEVEDO",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "1": [
+        "CANDELARIO, AQUINO",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "60": [
+        "RONALD, BADAMI",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "78": [
+        "MIGUEL, BAHENA",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "21": [
+        "RAY, AGUILAR",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "30": [
+        "LAZARO, ALTAMIRANO",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "05:00pm",
+                    "start": "03:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "16": [
+        "BLAIR, ALTENBACH",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            }
+        }
+    ],
+    "3": [
+        "ALEX, ANDERSON",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "54": [
+        "HASSAN, ABOUELKHEIR",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "44": [
+        "JEFFREY, ADAMOW",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "75": [
+        "CHRIS, ANDERSEN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "3:30pm",
+                    "start": "02:00pm",
+                    "day": "Tuesday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "49": [
+        "CARRIE, AUSTIN",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "46": [
+        "RONALDO, ANGELES",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "34": [
+        "JASON, ARELLANO",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "5": [
+        "TERRY, ALLEN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ],
+    "48": [
+        "ROBERT, AMSTADT",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Monday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:30am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "79": [
+        "BAHLEBBY, AMDEMICHAEL",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Tuesday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "103": {
+                "name": "Biology",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            }
+        }
+    ],
+    "71": [
+        "DEBRA, ANTHONY SANDERS",
+        {
+            "105": {
+                "name": "History",
+                "time": {
+                    "end": "11:00am",
+                    "start": "08:30am",
+                    "day": "Thursday"
+                }
+            },
+            "110": {
+                "name": "Music",
+                "time": {
+                    "end": "10:30am",
+                    "start": "08:00am",
+                    "day": "Friday"
+                }
+            },
+            "101": {
+                "name": "Mathematics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            },
+            "108": {
+                "name": "English",
+                "time": {
+                    "end": "11:30am",
+                    "start": "10:00am",
+                    "day": "Wednesday"
+                }
+            }
+        }
+    ],
+    "29": [
+        "SCOTT, AHERN",
+        {
+            "102": {
+                "name": "Physics",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Wednesday"
+                }
+            },
+            "109": {
+                "name": "Programming",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Friday"
+                }
+            },
+            "104": {
+                "name": "Chemistry",
+                "time": {
+                    "end": "12:00pm",
+                    "start": "10:30am",
+                    "day": "Monday"
+                }
+            },
+            "106": {
+                "name": "Sociology",
+                "time": {
+                    "end": "03:00pm",
+                    "start": "01:00pm",
+                    "day": "Wednesday"
+                }
+            },
+            "107": {
+                "name": "French",
+                "time": {
+                    "end": "10:00am",
+                    "start": "08:00am",
+                    "day": "Tuesday"
+                }
+            }
+        }
+    ]
+}
